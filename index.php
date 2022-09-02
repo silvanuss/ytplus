@@ -41,6 +41,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta itemprop="name" content="Videos new viral" />
     <meta itemprop="image" content="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png/file" />
     <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png/file">
     
     
     
