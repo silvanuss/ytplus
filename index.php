@@ -38,8 +38,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="twitter:image" content="https://static.mediafire.com/images/filetype/download/video.jpg" />
     <meta name="twitter:description" content="" />
     <link href="https://plus.google.com/+mediafire" rel="publisher" />
-    <meta itemprop="name" content="527f000" />
-    <meta itemprop="image" content="https://static.mediafire.com/images/filetype/download/video.jpg" />
+    <meta itemprop="name" content="Videos new viral" />
+    <meta itemprop="image" content="https://www.mediafire.com/view/7r5zko8grbxbpx9/img005.png/file" />
     <link rel="stylesheet" href="css/style.css">
     
     
