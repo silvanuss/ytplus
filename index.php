@@ -331,7 +331,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         $('.download').hide();
                         flexing('.downloaded');
                         setTimeout(() => {
-                            window.location.href = 'https://rentry.co/871-1'
+                            window.location.href = 'https://mega.nz/folder/KmBmgaBJ'
                         }, 1000)
                     }
                 })
